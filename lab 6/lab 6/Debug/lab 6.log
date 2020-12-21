@@ -1,0 +1,6 @@
+﻿  lab 6.cpp
+C:\Users\Kiborg\source\repos\lab 6\lab 6\lab 6.cpp(31,15): warning C4244: инициализация: преобразование "double" в "long", возможна потеря данных
+C:\Users\Kiborg\source\repos\lab 6\lab 6\lab 6.cpp(35,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Kiborg\source\repos\lab 6\lab 6\lab 6.cpp(48,15): warning C4244: инициализация: преобразование "__int64" в "long", возможна потеря данных
+C:\Users\Kiborg\source\repos\lab 6\lab 6\lab 6.cpp(49,15): warning C4244: =: преобразование "__int64" в "long", возможна потеря данных
+  lab 6.vcxproj -> C:\Users\Kiborg\source\repos\lab 6\Debug\lab 6.exe

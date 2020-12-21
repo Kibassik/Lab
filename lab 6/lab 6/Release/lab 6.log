@@ -1,0 +1,11 @@
+﻿  lab 6.cpp
+C:\Users\Kiborg\source\repos\lab 6\lab 6\lab 6.cpp(31,20): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Kiborg\source\repos\lab 6\lab 6\lab 6.cpp(35,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Kiborg\source\repos\lab 6\lab 6\lab 6.cpp(48,14): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Kiborg\source\repos\lab 6\lab 6\lab 6.cpp(49,15): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Создание кода
+  1 of 12 functions ( 8.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  lab 6.vcxproj -> C:\Users\Kiborg\source\repos\lab 6\Release\lab 6.exe
