@@ -1,0 +1,5 @@
+﻿  lab7.cpp
+C:\Users\Kiborg\source\repos\lab7\lab7\lab7.cpp(12,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Kiborg\source\repos\lab7\lab7\lab7.cpp(17,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Kiborg\source\repos\lab7\lab7\lab7.cpp(50,25): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  lab7.vcxproj -> C:\Users\Kiborg\source\repos\lab7\Debug\lab7.exe
