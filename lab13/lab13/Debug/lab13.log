@@ -1,0 +1,4 @@
+﻿  lab13.cpp
+C:\Users\Kiborg\source\repos\lab13\lab13\lab13.cpp(11,5): warning C4305: =: усечение из "double" в "float"
+C:\Users\Kiborg\source\repos\lab13\lab13\lab13.cpp(11,36): warning C4305: +=: усечение из "double" в "float"
+  lab13.vcxproj -> C:\Users\Kiborg\source\repos\lab13\Debug\lab13.exe
