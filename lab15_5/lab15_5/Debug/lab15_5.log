@@ -1,0 +1,3 @@
+﻿  lab15_5.cpp
+C:\Users\Kiborg\source\repos\lab15_5\lab15_5\lab15_5.cpp(7,16): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+  lab15_5.vcxproj -> C:\Users\Kiborg\source\repos\lab15_5\Debug\lab15_5.exe
